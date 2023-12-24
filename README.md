@@ -1,6 +1,6 @@
-¡Hola mi nombre es manuel!
+¡Hola mi nombre es Manuel!
 ===
-Desarrollador de software
+`Desarrollador de software`
 ---
 Llevo aprendiendo a desarrollar aplicaciones un par de años, anteriormente programaba o entendía un poco de HTML, CSS y JS. Hasta que decidí estudiar una carrera relacionada con el desarrollo de aplicaciones y encontré en el IPVG de concepción, chile, lo que estaba buscando.<br> 
 Esta decisión fue bastante importante ya que cambió de rubro, yo me dedicó al montaje industrial y trabajó por alrededor de 8 años, participando en diferentes proyectos mineros a lo largo de chile.<br>
