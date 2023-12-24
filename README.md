@@ -1,7 +1,14 @@
 ¡Hola mi nombre es manuel! 
+-------------------------
 Desarrollador de software
 ------------------------- 
-Llevo aprendiendo a desarrollar aplicaciones un par de años, anteriormente programaba o entendía un poco de HTML, CSS y JS. Hasta que decidí estudiar una carrera relacionada con el desarrollo de aplicaciones y encontré en el IPVG de concepción, chile, lo que estaba buscando. Esta decisión fue bastante importante ya que cambió de rubro, yo me dedicó al montaje industrial y trabajó por alrededor de 8 años, participando en diferentes proyectos mineros a lo largo de chile. \>Actualmente me encuentro desarrollando un portafolio para poder usarlo como carta de presentación. Si bien entiendo frontend y backend me gusta más el backend 👨‍💻. * 🌍 Estoy basado en C * 🖥️ Mira mi portafolio en [esta en mi localhost actualmente](http://proximamente)[](http://proximamente) * ✉️ Puedes contactarme en [manuelmonjes@gmail.com](mailto: manuelmonjes@gmail.com)[](mailto:manuelmonjes@gmail.com) * 🚀 Actualmente estoy trabajando en [mi propio whatsapp pronto...](http://proximamente)[](http://proximamente) * 🧠 Estoy aprendiendo React JS * 🤝 Estoy abierto a colaborar en lo que me invitan * ⚡Soy principal Lee Sin 👀
+Llevo aprendiendo a desarrollar aplicaciones un par de años, anteriormente programaba o entendía un poco de HTML, CSS y JS. Hasta que decidí estudiar una carrera relacionada con el desarrollo de aplicaciones y encontré en el IPVG de concepción, chile, lo que estaba buscando. Esta decisión fue bastante importante ya que cambió de rubro, yo me dedicó al montaje industrial y trabajó por alrededor de 8 años, participando en diferentes proyectos mineros a lo largo de chile. \>Actualmente me encuentro desarrollando un portafolio para poder usarlo como carta de presentación. Si bien entiendo frontend y backend me gusta más el backend 👨‍💻. 
+* 🌍 Estoy basado en C
+* 🖥️ Mira mi portafolio en [esta en mi localhost actualmente](http://proximamente)[](http://proximamente)
+* ✉️ Puedes contactarme en [manuelmonjes@gmail.com](mailto: manuelmonjes@gmail.com)[](mailto:manuelmonjes@gmail.com)
+* 🚀 Actualmente estoy trabajando en [mi propio whatsapp pronto...](http://proximamente)[](http://proximamente)
+* 🧠 Estoy aprendiendo React JS
+* ⚡Soy principal Lee Sin 👀
 
 ### Habilidades
 
