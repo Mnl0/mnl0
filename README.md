@@ -3,7 +3,7 @@
 `Desarrollador de software`
 ---
 Llevo aprendiendo a desarrollar aplicaciones un par de años, anteriormente programaba o entendía un poco de programacion. Hasta que decidí estudiar una carrera relacionada con el desarrollo de aplicaciones y encontré en el IPVG de concepción, chile, lo que estaba buscando.<br> 
-Esta decisión fue bastante importante ya que cambió de rubro, yo me dedicó al montaje industrial y trabajó por alrededor de 8 años, participando en diferentes proyectos mineros a lo largo de chile.<br>
+Esta decisión fue bastante importante ya que cambie de rubro, yo me dedicó al montaje industrial y he trabajó por alrededor de 8 años, participando en diferentes proyectos mineros a lo largo de chile.<br>
 Actualmente me encuentro desarrollando un portafolio para poder usarlo como carta de presentación. Si bien entiendo frontend y backend me gusta más el backend 👨‍💻.<br> 
 
 * 🌍 Soy de Chile
