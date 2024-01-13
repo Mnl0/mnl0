@@ -9,9 +9,10 @@ Actualmente me encuentro desarrollando un portafolio para poder usarlo como cart
 * 🌍 Soy de Chile
 * 🖥️ Mira mi portafolio en [esta en mi localhost actualmente]
 * ✉️ Puedes contactarme en manuelmonjes@gmail.com
-* 🚀 Actualmente estoy trabajando en [mi propio whatsapp pronto...]
-* 🧠 Estoy aprendiendo React JS
-* ⚡Soy principal Lee Sin 👀
+* 🚀 Actualmente estoy trabajando en [un chat pronto...]
+* 🧠 Estoy aprendiendo React JS.
+* ⚡Soy Main Lee Sin 👀.
+* 📑Estudiando Ingles.
 
 ### Habilidades
 
