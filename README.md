@@ -1,6 +1,6 @@
 ¡Hola mi nombre es Manuel!
 ===
-`Estudiante Ingenieria en computacione informtica`
+`Ingenierio en computacione informtica`
 ---
 `Sobre mi`
 ---
@@ -28,9 +28,8 @@ Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en conta
 ### Otros
 
 * 🌍 Soy de Chile
-* 🖥️ Mira mi portafolio en [esta en mi localhost actualmente]
-* 🚀 Actualmente estoy trabajando en [un chat pronto...]
-* 📑Estudiando Ingles.
+* 🖥️ Mira mi portafolio en [...mi localhost actualmente]
+* 🚀 Actualmente estoy trabajando en [...]
 
 <p align="left">
   <a href="https://reactjs.org/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height ="36" alt="React" /></a>
