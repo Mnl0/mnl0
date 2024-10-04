@@ -28,7 +28,7 @@ Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en conta
 ### Otros
 
 * 🌍 Soy de Chile
-* 🖥️ Mira mi portafolio en [...mi localhost actualmente]
+* 🖥️ Mira mi portafolio en [manuelmonjes.dev] 
 * 🚀 Actualmente estoy trabajando en [...]
 
 <p align="left">
