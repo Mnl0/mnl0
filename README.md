@@ -1,46 +1,55 @@
-¡Hola mi nombre es Manuel!
-===
-`Ingenierio en computacione informtica`
+# ¡Hola! Soy Manuel Eduardo Monjes Sandoval 👋
+### Ingeniero en Informática | Data Engineer & Full Stack Developer
+
 ---
-`Sobre mi`
+
+## 👨‍💻 Sobre mí
+Soy un Ingeniero en Informática apasionado por resolver problemas complejos conectando el desarrollo de software tradicional con la ingeniería de datos y la inteligencia artificial. A lo largo de mi trayectoria profesional, he evolucionado desde el desarrollo web hacia la arquitectura de datos y la integración de sistemas en la nube.
+
+Actualmente me especializo en el ecosistema **Google Cloud Platform (GCP)**, liderando integraciones de alto rendimiento entre entornos **SAP** y **BigQuery**, implementando arquitecturas *Medallion* y desarrollando soluciones analíticas avanzadas en **Looker**. También disfruto diseñando agentes conversacionales impulsados por IA utilizando sistemas RAG. Fuera del horario laboral, dedico tiempo a experimentar con servidores *self-hosted*, sistemas operativos como Fedora Linux y proyectos con hardware de microcontroladores.
+
 ---
-Apasionado por la resolución de problemas y el desarrollo de soluciones innovadoras, soy un estudiante ingeniero en computación e informática con experiencia en el desarrollo de software tanto en el frontend como en el backend. Mi enfoque principal se encuentra en el backend, donde tengo sólidos conocimientos en lenguajes como JavaScript, C# y Java, así como en el desarrollo de aplicaciones web utilizando Node.js. 👨‍💻 <br>
 
-### Habilidades principales
+## 🛠️ Stack Tecnológico y Habilidades
 
-* Lenguajes de programación: JavaScript, C#, Java
-* Frameworks y tecnologías: Node.Js, React.js
-* Bases de datos: SQL, MongoDB 
-* Maquetación  y estilado: HTML, CSS
+* **Cloud & Data Engineering:** Google Cloud Platform (GCP), BigQuery, Looker, SAP ABAP SDK, Cortex Data Foundation.
+* **Backend & AI:** Node.js, Express, Integración de APIs (Gemini), Sistemas RAG, Java, C#.
+* **Frontend & Mobile:** React.js, Next.js, React Native (Expo).
+* **Infraestructura & SO:** Docker, Git, Wireguard, Fedora Linux, ecosistema ARM (Raspberry Pi).
 
-### Experiencia ⌨️
+---
 
-Durante mi proceso de estudio, he tenido la oportunidad de trabajar en una variedad de proyectos, desde el desarrollo de aplicaciones web hasta la implementacion de sistemas. Mi experiencia en el diseno y la implementacion de sistemas backend me ha permitido crear soluciones eficientes.
+## 🚀 Experiencia y Enfoque Actual
 
-### Objetivo
+* **Integración y Analítica de Datos:** Implementación *end-to-end* de pipelines de datos en modo streaming desde SAP hacia GCP. Creación de capas semánticas e interfaces de analítica en Looker.
+* **Inteligencia Artificial:** Desarrollo de herramientas de analítica conversacional que permiten interactuar con bases de datos en lenguaje natural para la toma de decisiones empresariales.
+* **Desarrollo de Software a Medida:** Diseño de arquitecturas y desarrollo multiplataforma, incluyendo aplicaciones móviles modernas.
 
-Busco oportunidades donde pueda aplicar mis habilidades y conocimientos en el desarrollo de software para contribuir al éxito de proyectos innovadores. Estoy entusiasmado por seguir aprendiendo y creciendo profesionalmente en un entorno dinámico y colaborativo.
+---
 
-### Conectate conmigo
+## 🌍 Otros Detalles
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme a traves de manuelmonjes@gmail.com o conectarme en Linkedin.
+* 📍 Resido en la región del Biobío, Chile.
+* 🖥️ Portafolio: [manuelmonjes.dev](https://manuelmonjes.dev)
+* 🚀 Actualmente estoy trabajando en: Orquestación avanzada de datos en GCP, agentes de IA conversacional y proyectos de desarrollo móvil como TrattoApp.
 
-### Otros
+---
 
-* 🌍 Soy de Chile
-* 🖥️ Mira mi portafolio en [manuelmonjes.dev] 
-* 🚀 Actualmente estoy trabajando en [...]
+## 📫 Conéctate conmigo
 
+¡Siempre estoy abierto a nuevas colaboraciones, hablar sobre tecnología o discutir sobre buenas prácticas!
+
+* **Email:** manuelmonjes@gmail.com
+* **LinkedIn:** [Enlace a tu LinkedIn]
+
+<br>
+
+### 💻 Tecnologías que utilizo:
 <p align="left">
-  <a href="https://reactjs.org/" target= "_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height ="36" alt="React" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://www.oracle.com/uk/ index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer "><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt=" Docker" /></a>
-  <h6>Tengo que buscar mas iconos de skills y agregarlas :)</h6>
-</p>
-
-### Sociales
-
-<p align="left"> 
-<h6>Mnl0</h6>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 </p>
