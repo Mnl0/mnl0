@@ -40,7 +40,7 @@ Actualmente me especializo en el ecosistema **Google Cloud Platform (GCP)**, lid
 ¡Siempre estoy abierto a nuevas colaboraciones, hablar sobre tecnología o discutir sobre buenas prácticas!
 
 * **Email:** manuelmonjes@gmail.com
-* **LinkedIn:** [Enlace a tu LinkedIn]
+* **LinkedIn:** https://www.linkedin.com/in/mnl0/
 
 <br>
 
